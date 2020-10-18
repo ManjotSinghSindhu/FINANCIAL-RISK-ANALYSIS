@@ -7,6 +7,6 @@ LEARNING GOAL :
 2. Calculating the return of a portfolio of securities ( stock indicies, etc..)
 3. Risk, Standard deviation and Variance
 4. Relationship between securities (Correlation and Covariance, and calculations )
-5. Regressions; how to run regressions,  αα ,  ββ ,  R2R2 
+5. Regressions; how to run regressions,  α ,  β ,  R^2
 6. Markowitz's Portfolio Theory: a. CAPM (Capital Asset Pricing Model) : the most widely used asset pricing model b. Calculating Cost of Capital c. Sharp Ratio
 7. Monte Carlo Simulation a. Derivatives Pricing b. Stock Pricing c. Corporate Finance
